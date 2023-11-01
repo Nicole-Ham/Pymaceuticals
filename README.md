@@ -1,8 +1,6 @@
 # Pymaceuticals
 Module 5 Challenge
 
-Received help from tutor Mark Fulton, various learning assistants, class activities, pandas.pydata.org, and matplotlib.org 
-
 ### Analysis:
 
 The generated bar graph shows a comparison of timepoints with each drug regimen. Capomulin has the most amount of timepoints while Propriva has the least amount of timepoints.
